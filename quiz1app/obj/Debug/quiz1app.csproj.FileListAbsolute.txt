@@ -1,0 +1,18 @@
+D:\quzzzzz\app1\quiz1app\quiz1app\bin\Debug\quiz1app.exe.config
+D:\quzzzzz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.csprojResolveAssemblyReference.cache
+D:\quzzzzz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.Form1.resources
+D:\quzzzzz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.Properties.Resources.resources
+D:\quzzzzz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.csproj.GenerateResource.Cache
+D:\quzzzzz\app1\quiz1app\quiz1app\bin\Debug\quiz1app.exe
+D:\quzzzzz\app1\quiz1app\quiz1app\bin\Debug\quiz1app.pdb
+D:\quzzzzz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.exe
+D:\quzzzzz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.pdb
+D:\MADE IT BY ME\game quizz\app1\quiz1app\quiz1app\bin\Debug\quiz1app.exe.config
+D:\MADE IT BY ME\game quizz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.exe
+D:\MADE IT BY ME\game quizz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.pdb
+D:\MADE IT BY ME\game quizz\app1\quiz1app\quiz1app\bin\Debug\quiz1app.exe
+D:\MADE IT BY ME\game quizz\app1\quiz1app\quiz1app\bin\Debug\quiz1app.pdb
+D:\MADE IT BY ME\game quizz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.csprojResolveAssemblyReference.cache
+D:\MADE IT BY ME\game quizz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.Form1.resources
+D:\MADE IT BY ME\game quizz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.Properties.Resources.resources
+D:\MADE IT BY ME\game quizz\app1\quiz1app\quiz1app\obj\Debug\quiz1app.csproj.GenerateResource.Cache
